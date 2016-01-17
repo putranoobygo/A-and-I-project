@@ -1,2 +1,0 @@
-$MySqlDump  -u root -p F2853644P > database_dump.txt
-password ******
